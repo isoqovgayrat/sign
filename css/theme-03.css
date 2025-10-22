@@ -47,8 +47,7 @@
 
 @media (min-width: 768px) {
     .forny-container {
-        background: url('../img/bg-03-02.svg') center center no-repeat,
-            url('../img/bg-03-01.svg') center center no-repeat;
+        background: url('../img/bgN.png') center center no-repeat;
         background-color: hsla(216, 33%, 97%, 1);
         background-color: var(--forny-color-gray-100);
     }
